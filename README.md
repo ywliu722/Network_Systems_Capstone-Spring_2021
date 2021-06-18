@@ -1,13 +1,13 @@
 # Network Systems Capstone-Spring 2021
-Lab #1
+Lab #1-Layer 2 Forwarding and MAC Learning
 
-Lab #2
+Lab #2-Packet Forwarding and DHCP
 
-Lab #3
+Lab #3-Dynamic Routing and Network Address Translation
 
-Lab #4
+Lab #4-GRE Tunnel and Auto Creation
 
-Project
+Project-Virtual Customer Premise Equipment
 
 Lab #5
 
